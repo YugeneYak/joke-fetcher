@@ -115,9 +115,9 @@ http://127.0.0.1:8000/api/jokes
 ##### Используемые технологии
 Backend: Laravel 13, PHP 8.4, SQLite
 
-##### Frontend: Blade, Chart.js, чистый JavaScript
+Frontend: Blade, Chart.js, чистый JavaScript
 
-##### Авторизация: Laravel Breeze
+Авторизация: Laravel Breeze
 
 API: REST, JSON
 
