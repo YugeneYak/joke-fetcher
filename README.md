@@ -112,20 +112,20 @@ http://127.0.0.1:8000/api/jokes
 
 Не требует изменения исходной разметки.
 
-Используемые технологии
+##### Используемые технологии
 Backend: Laravel 13, PHP 8.4, SQLite
 
-Frontend: Blade, Chart.js, чистый JavaScript
+##### Frontend: Blade, Chart.js, чистый JavaScript
 
-Авторизация: Laravel Breeze
+##### Авторизация: Laravel Breeze
 
 API: REST, JSON
 
 Планировщик: встроенный в Laravel (cron / schedule:work)
 
-📄 Лицензия
+##### Лицензия
 Проект выполнен в рамках тестового задания и не предназначен для коммерческого использования.
 
-✍️ Автор
+##### Автор
 Евгений Яковлев
 GitHub: YugeneYak
